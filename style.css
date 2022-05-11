@@ -1,0 +1,48 @@
+
+body{
+    background-color: rgb(253, 251, 251);
+    font-family: 'Roboto Mono', monospace;
+}
+
+aside{
+    width: 350px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    border-style: dashed;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+article{
+    width: 350px;
+    height: 100px;
+    background-color: blue;
+    font-size: 10px;
+    float: right;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+#cabecalho{
+    top: 0px;
+    background-color: #228B22;
+    width: 100%;
+    height: 150px;
+    color: #fff;
+    text-align: center;
+}
+#titulo{
+    
+}
+#minha_foto{
+    width: 250px;
+
+}
+.lado_diretiro{
+        
+    
+}
