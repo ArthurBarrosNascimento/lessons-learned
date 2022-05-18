@@ -4,30 +4,7 @@ body{
     font-family: 'Roboto Mono', monospace;
 }
 
-aside{
-    width: 350px;
-    height: 150px;
-    background-color: aqua;
-    border: 1px solid black;
-    margin: 5px;
-    padding: 10px;
-    border-style: dashed;
-    border-radius: 5px;
-    letter-spacing: 1px;
-    line-height: 20px;
-}
-article{
-    width: 350px;
-    height: 100px;
-    background-color: blue;
-    font-size: 10px;
-    float: right;
-    border: 1px solid black;
-    margin: 5px;
-    padding: 10px;
-    letter-spacing: 1px;
-}
-#cabecalho{
+header{
     top: 0px;
     background-color: #228B22;
     width: 100%;
@@ -42,7 +19,46 @@ article{
     width: 250px;
 
 }
-.lado_diretiro{
-        
-    
+#conteudo{
+
+}
+
+#esquerdo{
+    width: 50%;
+    height: 250px;
+    float: left;
+
+}
+#direito{
+    width: 50%;
+    height: 300px;
+    float: right;
+}
+
+#rodape{
+
+}
+
+.lado-direito{
+    width: 350px;
+    height: 100px;
+    background-color: blue;
+    font-size: 10px;
+    float: right;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    letter-spacing: 1px;
+}
+.lado-esquerdo{
+    width: 350px;
+    height: 150px;
+    background-color: aqua;
+    border: 1px solid black;
+    margin: 5px;
+    padding: 10px;
+    border-style: dashed;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    line-height: 20px;
 }
